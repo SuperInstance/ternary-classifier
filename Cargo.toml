@@ -1,0 +1,11 @@
+[package]
+name = "ternary-classifier"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+repository = "https://github.com/SuperInstance/ternary-classifier"
+description = "Classifies ternary agent behavior into strategy species using multiple methods"
+keywords = ["ternary", "classifier", "clustering", "agent", "behavior"]
+categories = ["science", "algorithms"]
+
+[dev-dependencies]
